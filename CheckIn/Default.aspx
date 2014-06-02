@@ -43,8 +43,7 @@
                 <td width="5%"></td>
                 <td align="left" width="45%">
                     <asp:CustomValidator ID="CustomValidator1" ForeColor="Red" runat="server" ErrorMessage="Enter correct Zip Code" ControlToValidate="" OnServerValidate="validateZipCode"></asp:CustomValidator>
-                </td>
-                
+                </td>                
                 </tr>
                 <tr>
                     <td colspan="4" align="center">
@@ -53,11 +52,9 @@
                         <br />
                 </tr>
             </table>
-            </div>
-            
+            </div>            
 <%--        </ContentTemplate>
     </asp:UpdatePanel>--%>
-
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="scriptPlaceHolder" runat="server">
 <script type="text/javascript">
