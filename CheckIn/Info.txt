@@ -1,0 +1,8 @@
+﻿1. Clean Home page. Make control with space
+ <!--connectionString="Data Source=localhost;Initial Catalog=TestDB3;Integrated Security=True"-->
+ 
+ Ajax toolkit download url
+ http://www.asp.net/ajaxlibrary/act.ashx
+
+ SMTP Server Test using Telnet on Windows Server OS
+ http://blog.nicholasrogoff.com/2011/09/16/testing-an-smtp-service-using-telnet/

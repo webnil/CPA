@@ -1,0 +1,123 @@
+﻿body
+{
+    font-family: Arial;
+    font-size: 12px;
+}
+.Divider
+{
+    border-right: 1px solid silver;
+}
+/* Sign Up Page Start*/
+.btnComLogo
+{
+    margin-left: 15px;
+    margin-top: 20px;
+    background-color: #D99795;
+    height: 30px;
+}
+.btnComLogo2
+{
+    margin-top: 5px;
+    margin-right: 10px;
+    background-color: #D99795;
+    height: 30px;
+}
+.btnSignUp
+{
+    background-color: #F2F2F2;
+    height: 25px;
+    width: 50%;
+    vertical-align: middle;
+}
+.btnSignUp2
+{
+    background-color: #F2F2F2;
+    height: 30px;
+    width: 50%;
+    vertical-align: top;
+}
+
+.clsT
+{
+    font-weight: bold;
+    font-size: large;
+    height: 20px;
+}
+.clsT1
+{
+    font-weight: normal;
+    font-size: 14px;
+    height: 20px;
+}
+.clstblRightBGC
+{
+    background-color: #B6DDE8;
+    height: 20px;
+    padding-left: 25px;
+}
+.clsCA
+{
+    height: 20px;
+    text-align: left;
+}
+.tdGeneralHeight
+{
+    height: 20px;
+}
+/* Sign Up Page End*/
+
+.clsttxtbox_Max
+{
+    width: 85%;
+    padding-right: 5px;
+    padding-left: 5px;
+    border: 1px solid #4BACC6;
+}
+.clsttxtbox_Midleft
+{
+    width: 100%;
+    padding-left: 5px;
+    border: 1px solid #4BACC6;
+    text-indent: 3px;
+}
+.clsttxtbox_MidRight
+{
+    width: 74%;
+    text-indent: 3px;
+    border: 1px solid #4BACC6;
+}
+.clstxtBoxPhn1
+{
+    width: 85%;
+    border: 1px solid #4BACC6;
+}
+.clstxtBoxPhn3
+{
+    width: 75%;
+    border: 1px solid #4BACC6;
+}
+.SeqNo
+{
+    border-left: 1px solid silver;
+    border-right: 1px solid silver;
+    border-top: 1px solid silver;
+    border-bottom: 1px solid silver;
+    width: 90%;
+    padding: 0 0 0 0;
+    height: 20px;
+    background-color: #BFBFBF;
+    font-weight: bold;
+}
+
+.btnSaveCancel
+{
+    border-left: 1px solid silver;
+    border-right: 1px solid silver;
+    border-top: 1px solid silver;
+    border-bottom: 1px solid silver;
+    width: 70%;
+    padding: 0 0 0 0;
+    height: 20px;
+    background-color: #BFBFBF;
+    font-weight: bold;
+}
